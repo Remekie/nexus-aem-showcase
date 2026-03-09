@@ -1,2 +1,4 @@
 mountpoints:
-  /: https://content.da.live/Remekie/nexus-aem-showcase
+  /:
+    url: https://content.da.live/Remekie/nexus-aem-showcase/
+    type: markup
